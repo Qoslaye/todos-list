@@ -61,7 +61,7 @@ Follow these instructions to set up the project locally.
 
 ### Clone the Repository
 
-git clone https://github.com/yourusername/todo-list-mern.git
+git clone https://github.com/Qoslaye/todos-list
 cd todo-list-mern
 
 
