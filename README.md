@@ -91,23 +91,3 @@ Here are some screenshots of the application to provide a visual representation 
    - **Description**: This screenshot showcases the MongoDB database structure used to store task data. It displays the collections and documents format, including fields such as task names, descriptions, and statuses. The image provides insight into how data is organized and accessed within the application, ensuring efficient data management and retrieval.
 
 
-## Acknowledgments
-
-I would like to express my gratitude to the following resources and individuals for their invaluable contributions to this project:
-
-- **YouTube Channel**: [MERN Stack Tutorial for Beginners](https://www.youtube.com/watch?v=CvCiNeLnZ00&t=327s) - This comprehensive tutorial was instrumental in providing the foundational knowledge required to build a full-stack application using the MERN stack. The step-by-step guidance was immensely helpful in understanding the intricacies of integrating MongoDB, Express.js, React.js, and Node.js.
-
-- **Online Communities**: I am grateful to the online communities on platforms like Stack Overflow and GitHub for providing a wealth of information, code snippets, and support. These resources were invaluable in troubleshooting issues and exploring advanced concepts.
-
-- **My Team Members**: A heartfelt thanks to Anisa Hussein, Anab Shire, Rowda Abshir, and Abdi Shakur for their collaboration and dedication to this project. Their teamwork and problem-solving skills greatly contributed to the successful development of this application.
-
-## Conclusion
-
-This project was a valuable learning experience, allowing our team to delve into the MERN stack and explore its capabilities in building modern web applications. While we faced challenges, especially in deploying the application, the process has significantly enhanced our understanding of both frontend and backend development.
-
-Despite not meeting the deployment requirement, the screenshots included in this README provide a clear demonstration of the application's features and functionality. The decision to extend the project from a frontend-only application to a full-stack solution reflects our commitment to delivering a comprehensive and practical application.
-
-Through this project, we have not only honed our technical skills but also developed our ability to work collaboratively and manage a complete project lifecycle. We are proud of what we have accomplished and look forward to applying these learnings to future endeavors.
-
-For any questions or further information, please feel free to contact us. We appreciate your time and interest in reviewing our project!
-
