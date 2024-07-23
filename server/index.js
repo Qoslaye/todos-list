@@ -3,14 +3,10 @@ const express = require('express');
 const { connectToMongoDB } = require('./database');
 const cors = require('cors');
 
-const app = express()
-app.use(cors(
-	{
-		origin: ["https:todos-list-bb.vercel.app"],
-		methods: ['POST' , 'GET'],
-		credentials: true 
-	}
-));
+const app = express();
+app.use(cors()
+       
+       );
 
 app.use(express.json());
 
