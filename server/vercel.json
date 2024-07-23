@@ -1,0 +1,12 @@
+{
+	"version": [
+			{"src":"*.js", "use" : "@vercel.com" }
+		]
+	"routes" : [
+		{ 
+
+			"src" : "/(.*)",
+			"dest" : "/"
+		}
+	]
+}
