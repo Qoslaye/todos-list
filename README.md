@@ -61,7 +61,6 @@ Follow these instructions to set up the project locally.
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/todo-list-mern.git
 cd todo-list-mern
 
