@@ -44,3 +44,7 @@ Follow these instructions to set up the project locally.
 ```bash
 git clone https://github.com/yourusername/todo-list-mern.git
 cd todo-list-mern
+
+
+![Screenshot 2024-07-23 190803](https://github.com/user-attachments/assets/981ad341-086f-477d-9ecd-9f5cd6a70d77)
+
