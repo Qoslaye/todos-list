@@ -2,7 +2,7 @@
 	"version": [
 			{"src":"*.js", "use" : "@vercel.com" }
 		]
-	"routes" : [
+	"routes": [
 		{ 
 
 			"src" : "/(.*)",
