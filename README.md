@@ -11,7 +11,7 @@ This is a Todo List application built using the MERN stack (MongoDB, Express.js,
 - **Interactive UI**: A user-friendly interface with intuitive icons for actions like update and delete, ensuring an easy navigation experience.
 - **Settings Page**: Customize application settings using React Router DOM, allowing you to tailor the app to your preferences.
 
-![Screenshot 2024-03-22 222819](https://github.com/user-attachments/assets/47cbf446-4085-47b3-b4e2-53f65d5e3fa3)
+
 
 ## Technologies Used
 
@@ -48,6 +48,5 @@ git clone https://github.com/yourusername/todo-list-mern.git
 cd todo-list-mern
 
 
-![Screenshot 2024-03-22 222819](https://github.com/user-attachments/assets/47cbf446-4085-47b3-b4e2-53f65d5e3fa3)
 
 
