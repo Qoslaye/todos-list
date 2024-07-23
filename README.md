@@ -84,7 +84,7 @@ Here are some screenshots of the application to provide a visual representation 
    - **Description**: The Settings Page serves as a placeholder for potential future enhancements. It showcases the basic routing capabilities using React Router DOM. This page currently does not contain any settings but demonstrates the multi-page setup of the application.
 
 
-3. **Database Structure**:
+3. **Database **:
 
    
    - ![Screenshot 2024-07-23 194513](https://github.com/user-attachments/assets/e1604e43-8855-4b15-83ed-709c31b905b1)
