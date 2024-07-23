@@ -69,13 +69,17 @@ cd todo-list-mern
 
 Here are some screenshots of the application to provide a visual representation of the features:
 
-1. **Todo Page**: 
+1. **Todo Page**:
+
+   
  ![Screenshot 2024-07-23 192603](https://github.com/user-attachments/assets/a386d1c4-a0f5-4071-8854-495977c997b8)
 
    - **Description**: The Todo Page is the main interface of the application where users can view, create, edit, and delete tasks. It features a clean and user-friendly layout with intuitive navigation for managing tasks efficiently. The screenshot illustrates the layout of the task list along with the input field for adding new tasks.
 
 
-3. **Settings Page**: 
+2. **Settings Page**:
+
+   
 ![Screenshot 2024-07-23 192645](https://github.com/user-attachments/assets/4fcd788a-7caf-4ce3-8baf-2a60b3c2a7c1)
    - **Description**: The Settings Page serves as a placeholder for potential future enhancements. It showcases the basic routing capabilities using React Router DOM. This page currently does not contain any settings but demonstrates the multi-page setup of the application.
 
