@@ -3,8 +3,15 @@ const express = require('express');
 const { connectToMongoDB } = require('./database');
 const cors = require('cors');
 
-const app = express();
-app.use(cors());
+const app = express()
+app.use(cors(
+	{
+		origin: ["https:todos-list-bb.vercel.app"],
+		methods: ['POST' , 'GET'],
+		credentials: true 
+	}
+));
+
 app.use(express.json());
 
 if (process.env.NODE_ENV === 'production') {
