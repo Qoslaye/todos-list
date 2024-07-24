@@ -108,4 +108,4 @@ Despite not meeting the deployment requirement, the screenshots included in this
 
 Through this project, we have not only honed our technical skills but also developed our ability to work collaboratively and manage a complete project lifecycle. We are proud of what we have accomplished and look forward to applying these learnings to future endeavors.
 
-For any questions or further information, please feel free to contact us. We appreciate your time and interest in reviewing our project!
+For any questions or further information, please feel free to contact us. We appreciate your time and interest in reviewing our project.
